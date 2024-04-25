@@ -1,0 +1,1 @@
+This repository contains the data files and analysis notebooks to support the paper "Meta-Analysis of Molecular Design Strategies for Non-Fullerene Acceptor Based Organic Solar Cell Materials" (DOI: 10.26434/chemrxiv-2024-w29b1)
