@@ -1,0 +1,8 @@
+para_NFA_name,para_PCE,meta_NFA_name,meta_PCE,donor,class,difference
+ITIC,5.38,m-ITIC,5.89,J52,fused,0.51
+ITIC,10.1,m-ITIC,11.77,J71,fused,1.67
+ITIC,9.75,m-ITIC,11.49,J61,fused,1.74
+ITIC,10.6,m-ITIC,11.05,J81,fused,0.45
+p-INPOIC,10.4,m-INPOIC,11.8,PBDB-T,fused,1.4
+m-DTC-2Cl,10.8,m-DTC-Cl-2,12.6,PTO2,fused,1.8
+A1_zong,13.06,A2_zong,14.34,L1-S,fused,1.28

@@ -1,0 +1,27 @@
+linear_NFA_name,linear_PCE,linear_length,branched_NFA_name,branched_PCE,branched_length,donor,location,class,difference
+IPT-4F,14.89,C8,IPTBO-4F,14.6,BO,PM6,N-ring_core,fused,0.29
+INPIC,4.26,C8,IPIC,3.81,BO,PBDB-T,N-ring_core,fused,0.45
+O-IDTBR,6.88,C8,EH-IDTBR,6,EH,P3HT,C-ring_core,fused,0.88
+IDTBR,9.95,C8,EH-IDTBR,10.7,EH,PffBT4T-2DT,C-ring_core,fused,-0.75
+BDTN-BF,11.25,O-C8,M36,15.8,O-BO,PM6,benzene_core,fused,-4.55
+FO-2Cl,15.08,C8,FO-EH-2Cl,15.57,EH,BSFTR,6-member ring with O,fused,-0.49
+IPT-4Cl,14.34,C8,IPTBO-4Cl,14.94,BO,PM6,N-ring_core,fused,-0.6
+ID-4F,6.1,C6,ID4F,6.6,EH,PM6,C-ring_core,fused,-0.5
+F-2F,12.65,C8,F-EH-2F,11.73,EH,PM6,C-ring_core,fused,0.92
+FO-2F,14.69,C8,FOEH-2F,14.28,EH,PM6,6-member ring with O,fused,0.41
+DTNIC6,3.06,C6,DTNIC8,8.89,EH,PBDB-T,C-ring_core,fused,-5.83
+ID-4F,6.1,C6,ID4F,6.6,EH,PM6,C-ring_core,fused,-0.5
+Y6,15.6,C11,L8-HD,17.09,HD,PM6,outer_chain,y,-1.49
+BTA-C6,15.9,C6,BTA-C8,16.27,EH,PM6,NNN_core,y,-0.37
+YCH4,14.72,C4,Y11,16.2,EH,PM6,NNN_core,y,-1.48
+4T-1,5.45,C8,4T-3,9.85,EH,PBDB-T,thiophene,unfused,-4.4
+QCIC4,9.42,C6,QCIC3,10.3,EH,PBDB-T,3ring_unit_with_thio-pentane_thio,unfused,-0.88
+C8-4F,11.5,C8,C6C4-4F,12.1,BO,PM6,2ring_thio_ONO,unfused,-0.6
+BCPDT-1,7.1,C8,BCIC2F,11.28,EH,PBDB-T,3ring_unit_with_thio-pentane_thio,unfused,-4.18
+DO-2F,10.8,O-C6,DOC2C6-2F,12.99,O-EH,PBDB-T,benzene,unfused,-2.19
+BTCPDTO4,11.59,O-C4,BCDT4F,9.45,O-EH,PBDB-T,2ring_NSN,unfused,2.14
+o-DOC6-2F,11.65,O-C6,o-DOC2C6-2F,10.73,O-EH,PBDB-T,benzene,unfused,0.92
+p-DOC6-2F,9.17,O-C6,DOC2C6-2F,12.99,O-EH,PBDB-T,benzene,unfused,-3.82
+C8-4Cl,11.2,C8,C6C4-4Cl,12.2,BO,PM6,2ring_thio_ONO,unfused,-1
+TBTT-ORH,7.6,C8,TBTT-BORH,8.33,BO,PTB7-Th,SSNO_end_ring,unfused,-0.73
+F8IDT,1.52,C8,FEHIDT,2.12,EH,P3HT,3ring_benzene_pentane_benzene,unfused,-0.6

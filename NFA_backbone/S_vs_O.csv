@@ -1,0 +1,14 @@
+sulfur_NFA_name,sulfur_PCE,O_name,O_PCE,donor,location,class,difference,location_heteroatom
+BTA1,5.42,BTA2,4.36,P3HT,terminal,fused,1.06,terminal
+M36,15.65,M80,9.1,PM6,middle fused core,fused,6.55,center
+M36,15.65,M81,10.9,PM6,1 side middle fused ,fused,4.75,center
+BTA101,3.44,BTA100,0.9,P3HT,terminal,fused,2.54,terminal
+ACS8,11.5,IEICO-4F,10.7,PTB7-Th,side chain,fused,0.8,side chain
+IDTI,7,IDF-IC,8,PM6,end fused core,fused,-1,end
+M34,15,M8,4,PM6,middle fused core,fused,11,center
+PI-4F,7,IDF-4F,7.8,PM6,end fused core,fused,-0.8,end
+BT2FIDT-4Cl,12.2,BO2FIDT-4Cl,10.1,PBDB-T-2Cl,center core linker,fused,2.1,center
+IDT-2Br,5.04,BT2,4.7,P3HT,terminal,fused,0.34,terminal
+DTC-T-C,0.7,DTC-F-C,2.63,PTB7-Th,linker,unfused,-1.93,end
+DTC-T-F,8.66,DTC-F-F,7.41,PTB7-Th,linker,unfused,1.25,end
+SCH3-2F,6.29,OCH3-2F,7.68,PBDB-T,side chain,unfused,-1.39,side chain

@@ -1,0 +1,34 @@
+fourhalogenated_NFA_name,fourhalogenated_PCE,halogenation_detailed,halogenation,donor,donor_type,class,twohalogenated_name,twohalogenated_PCE,halogenation_detailed,halogenation,donor,donor_type,class,difference
+ITIC4,8.44,4F ,Fluoronated,PTB7-Th,Fluoronated,Fused,ITIC3,8.24,2F O ,Fluoronated,PTB7-Th,Fluoronated,Fused,0.2
+YITI-4F,6.5,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,YITI-2F,10,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,-3.5
+IT-4Cl,12.39,4Cl,Chlorinated,PM6,Fluoronated,Fused,IT-2Cl,13.03,2Cl O ,Chlorinated,PM6,Fluoronated,Fused,-0.64
+IT-4Cl,12.39,4Cl,Chlorinated,PM6,Fluoronated,Fused,ITIC-2Cl-beta,10.92,2Cl O Beta,Chlorinated,PM6,Fluoronated,Fused,1.47
+DTTSiC-4F,11.3,4F ,Fluoronated,PM6,Fluoronated,Fused,DTTSiC-2F,8.8,2F O ,Fluoronated,PM6,Fluoronated,Fused,2.5
+DTTSiC-4Cl,11.6,4Cl,Chlorinated,PM6,Fluoronated,Fused,DTTSiC-2Cl,9.3,2Cl O ,Chlorinated,PM6,Fluoronated,Fused,2.3
+IT-2F,12.59,4F ,Fluoronated,P2F-Ehp,Fluoronated,Fused,IT-F,6.69,2F O ,Fluoronated,P2F-Ehp,Fluoronated,Fused,5.9
+FOR-2F ,14.9,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,FOR-1F,12.3,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,2.6
+DTP-2F,10.1,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,DTP-1F,10.8,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,-0.7
+INPIC-4F,11.36,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,INPIC-2F,8.13,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,3.23
+IEICO-4F,10,4F ,Fluoronated,PTB7-Th,Fluoronated,Fused,IOTIC-2F,11.6,2F O ,Fluoronated,PTB7-Th,Fluoronated,Fused,-1.6
+F-2Cl,10.16,4Cl,Chlorinated,PBDB-T,Nonhalogenated,Fused,F-Cl,11.26,2Cl O ,Chlorinated,PBDB-T,Nonhalogenated,Fused,-1.1
+F-2Cl,9.62,4Cl,Chlorinated,DRCN5T,Nonhalogenated,Fused,F-1Cl,7.9,2Cl O ,Chlorinated,DRCN5T,Nonhalogenated,Fused,1.72
+IXIC-4Cl,11.2,4Cl,Chlorinated,PBDB-T,Nonhalogenated,Fused,IXIC-2Cl,12.2,2Cl O ,Chlorinated,PBDB-T,Nonhalogenated,Fused,-1
+TT-FIC,10.8,4F ,Fluoronated,PTB7-Th,Fluoronated,Fused,FOIC,11.15,2F O ,Fluoronated,PTB7-Th,Fluoronated,Fused,-0.35
+ITIC-Th2,8.93,4F ,Fluoronated,FTAZ,Fluoronated,Fused,ITIC-Th1,11.9,2F O ,Fluoronated,FTAZ,Fluoronated,Fused,-2.97
+TTPTTT-4F,11.89,4F ,Fluoronated,PBT1-C,Nonhalogenated,Fused,TTPTTT-2F,11.21,2F O ,Fluoronated,PBT1-C,Nonhalogenated,Fused,0.68
+PTBTP-4F,12.2,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,PTBTP-2F,11.01,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,1.19
+IDTT2OT-4F,10.13,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,IDTT2OT-2F,9.8,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,0.33
+ITOIC-2F,11.88,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,ITOIC-F,10.49,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,1.39
+INIC3,11.3,4F ,Fluoronated,FTAZ,Fluoronated,Fused,INIC1,9.9,2F O Beta,Fluoronated,FTAZ,Fluoronated,Fused,1.4
+INIC3,11.3,4F ,Fluoronated,FTAZ,Fluoronated,Fused,INIC2,10.6,2F O ,Fluoronated,FTAZ,Fluoronated,Fused,0.7
+i-IEICO-4Cl,11.93,4Cl,Chlorinated,J52,Fluoronated,Fused,i-IEICO-2Cl,11.34,2Cl O ,Chlorinated,J52,Fluoronated,Fused,0.59
+IPT-4F,14.89,4F ,Fluoronated,PBDB-T,Nonhalogenated,Fused,IPT-2F,13.75,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Fused,1.14
+COi6DFIC ,8.1,4F ,Fluoronated,FTAZ,Fluoronated,Fused,COi6FIC,9.1,2F O ,Fluoronated,FTAZ,Fluoronated,Fused,-1
+Y6-4Cl,15.72,4Cl,Chlorinated,PM6,Fluoronated,Y,BTIC-Cl-m,13.95,2Cl O ,Chlorinated,PM6,Fluoronated,Y ,1.77
+INIC3,11.3,4F ,Fluoronated,FTAZ,Fluoronated,Y,BTIC-F-m,13.42,2F O ,Fluoronated,PM6,Fluoronated,Y ,-2.12
+BTIC-4Br,11.98,4Br,Brominated,PM6,Fluoronated,Y,BTIC-2Br-m,16.12,2Br O ,Brominated,PM6,Fluoronated,Y ,-4.14
+BTIC-4Br,11.98,4Br,Brominated,PM6,Fluoronated,Y,BTIC-2Br-b,7.98,2Br O Beta,Brominated,PM6,Fluoronated,Y ,4
+Y7-BO,16.57,4Cl,Chlorinated,PM6,Fluoronated,Y,Y-Cl,14.31,2Cl O ,Chlorinated,PM6,Fluoronated,Y ,2.26
+Y11,16.2,4F ,Fluoronated,PM6,Fluoronated,Y,Y14,8.49,2F O ,Fluoronated,PM6,Fluoronated,Y ,7.71
+TR2F-IC4F,8.43,4F ,Fluoronated,PBDB-T,Nonhalogenated,Unfused,BTC6-2F,10.15,2F O ,Fluoronated,PBDB-T,Nonhalogenated,Unfused,-1.72
+TTDTC-4F,7.62,4F ,Fluoronated,P3HT,Nonhalogenated,Unfused,TTDTC-2F,6.18,2F O ,Fluoronated,P3HT,Nonhalogenated,Unfused,1.44
